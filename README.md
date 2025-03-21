@@ -1,3 +1,3 @@
 # Vanilla JavaScript ToDo List created by Erick Sanchez
 
-Just write the task, press enter button and you will be able to edit or delet the new task.
+This is a ToDo Vanilla JavaScript app, to use it just write the task, press the enter button then you will be allow to edit or delet the new task.
